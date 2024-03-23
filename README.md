@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Código base de la interfaz iPhone Hecha en React.js, Gsap, Three.js y Tailwind CSS.
+Código base de la interfaz iPhone Hecha en React.js, Gsap, Three.js y Tailwind CSS. 02:50:00
 
 ---
 
