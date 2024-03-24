@@ -18,7 +18,7 @@ Código base de la interfaz iPhone Hecha en React.js, Gsap, Three.js y Tailwind 
 
 ## Enlace A La Aplicación
 
-- [Iphone](https://iphone-ui.netlify.app/)
+- [Iphone](https://iphone-pro-ui.netlify.app/)
 
 ---
 
