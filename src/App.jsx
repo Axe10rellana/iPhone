@@ -5,7 +5,6 @@ import {
   Hero,
   Highlights,
   HowItWorks,
-  Model,
   Navbar,
 } from "./components";
 
@@ -15,7 +14,6 @@ const App = () => {
       <Navbar />
       <Hero />
       <Highlights />
-      <Model />
       <Features />
       <HowItWorks />
       <Footer />
