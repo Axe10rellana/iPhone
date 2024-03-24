@@ -2,8 +2,8 @@
 import { useEffect, useState } from "react";
 
 //gsap
-import { useGSAP } from "@gsap/react";
 import gsap from "gsap";
+import { useGSAP } from "@gsap/react";
 
 //utils
 import { heroVideo, smallHeroVideo } from "../utils";
